@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Sean", "West", , "swest8@asu.edu", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This package recreates the Monty Hall game and its necessary steps while enabling useres to run simulations to measure probabilities.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
