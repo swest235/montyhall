@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Sean", "West", , "swest8@asu.edu", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: This package recreates the Monty Hall game and its necessary steps while enabling useres to run simulations to measure probabilities.
+Description: This package recreates the Monty Hall game and its necessary steps while enabling useres to run simulations to measure probabilities. The game consists of 3 random doors, of which, one contains a car while the other two goats. The contestant randomly selects a door, after which the host opens one of the remaining doors that has not been selected but has goats behind them. Leaving the contestant with two unopened doors, the contestant is able to choose to stay, meaning he keeps his initial pick, or switch, meaningn he selects the other unopened door. The strategy of stay or switch was heavily debated. This package allows users to simulate and analyze the results of each strategy.
 Depends: 
    dplyr
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
