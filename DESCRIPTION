@@ -1,17 +1,14 @@
 Package: montyhall
-Title: Recreates the "Let's Make a Deal" Gameshow (Monty Hall Game)
+Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person("Sean", "West", , "swest8@asu.edu", role = c("aut", "cre"),
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: This package creates the game show "Let's Make a Deal" or more commonly known as the Monty Hall Game. The game consists of 2 goats, and 1 car each 
-randomly assigned to 1 of 3 doors. The objective is for the contestant to pick the door containing a car. The game works by the contestant first picking a door, 
-followed by the host picking a door that contains a goat (not the contestants initial pick - if it is a goat). The contestant then has one final opporuntity to choose
-to stay with their initial pick, or switch to the other unopened door. The debate around the gameshow was whether the stay or switch strategy were best. This package 
-allows the user to recreate game plays and simulate numerous games in order to analyze strategy outcomes. 
+Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+
 
